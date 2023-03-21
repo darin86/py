@@ -3,10 +3,10 @@ import getpass
 def encrypto(password):
     crypto=""
     for j in password:
-        crypto = crypto+"".join(chr((ord(j)-97+3)%26+97))
+        crypto = crypto+"".join(chr((ord(j)-97+3)%26+97))#凯撒加密
     return crypto
 name="root"
-passwd="urrw"
+passwd="urrw"#root
 i=0
 while(i<3):
     username = input("请输入你的用户名:")
