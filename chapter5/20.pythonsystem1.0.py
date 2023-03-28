@@ -1,7 +1,7 @@
 import getpass
 
-name= "student"
-passwd = "dvgi"
+name= "root"
+passwd = "urrw"
 
 ## 首先将加密的程序用函数定义出来
 def encrypto(password):

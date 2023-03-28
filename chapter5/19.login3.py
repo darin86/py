@@ -1,7 +1,7 @@
 import getpass
 
-name= "student"
-passwd = "dvgi"
+name= "root"
+passwd = "urrw"
 i=0
 while(i < 3):
     username = input("请输入你的用户名：")
