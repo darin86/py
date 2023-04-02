@@ -1,0 +1,6 @@
+user=input('请输入用于创建列表的数据：')
+list_user=list(user)
+print(list_user[1])
+print(list_user[-1])
+print(list_user[0:3])
+print(list_user[-3:])
