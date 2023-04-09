@@ -12,3 +12,5 @@ else:
     grade = 'E'
 
 print("您的成绩等级为：", grade)
+
+print("电气224 202213290429 黄达林")
