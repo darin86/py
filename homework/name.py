@@ -1,0 +1,15 @@
+from turtle import*
+import turtle
+speed(1)
+pensize(10)
+color("pink")
+down()
+left(90)
+fd(250)
+circle(15,180)
+fd(250)
+right(45)
+circle(30,130)
+left(13)
+circle(30,130)
+turtle.exitonclick()
