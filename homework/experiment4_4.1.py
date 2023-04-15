@@ -9,4 +9,10 @@ while True:
     if abs(pos()) < 1:
         break
 end_fill()
+penup()
+goto(-150,50)
+pendown()
+color("black")
+write("电气224黄达林202213290429")
+hideturtle()
 exitonclick()

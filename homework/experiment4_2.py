@@ -16,5 +16,10 @@ for i in range(5):
     fd(46.2)
     right(72)
 end_fill()
-
+penup()
+goto(-200,50)
+pendown()
+color("black")
+write("电气224黄达林202213290429")
+hideturtle()
 exitonclick()
