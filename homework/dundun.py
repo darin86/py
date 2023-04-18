@@ -1,6 +1,6 @@
 import turtle
 
-turtle.speed(3)  # 速度
+turtle.speed(0)  # 速度
 
 turtle.screensize(500, 500, "white")
 
@@ -378,4 +378,4 @@ turtle.write("xxx专属墩墩", font=('Quicksand', 26, 'normal'))
 turtle.hideturtle()
 
 
-turtle.done()
+turtle.exitonclick()
