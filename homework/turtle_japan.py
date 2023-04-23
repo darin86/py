@@ -1,6 +1,6 @@
 from turtle import*
 import turtle
-speed(1)
+speed(0)
 screensize(600,500, "black")
 goto(-120,-120)
 pencolor("white")
