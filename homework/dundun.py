@@ -373,7 +373,7 @@ turtle.end_fill()
 
 turtle.goto(230, 140)
 turtle.pencolor("black")
-turtle.write("xxx专属墩墩", font=('Quicksand', 26, 'normal'))
+turtle.write("黄达林专属墩墩", font=('Quicksand', 26, 'normal'))
 
 turtle.hideturtle()
 
